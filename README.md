@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 to run the project locally write these commands in the terminal:
 -npm install
 -npm start
