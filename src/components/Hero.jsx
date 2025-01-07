@@ -58,7 +58,7 @@ const Hero = () => (
       </Grid>
 
       
-      <Grid Grid item xs={12} md={6} marginLeft={"-90px"}>
+      <Grid item xs={6} md={6} >
         <TableComponent />
       </Grid>
     </Grid>
